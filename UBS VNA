@@ -1,0 +1,18 @@
+# Bill of Materials – TPBR-Open
+
+## Budget Build (\~$65 total)
+- 2 × PZT-5H 100 mm diameter × 2.5 mm thick disks (plain metallized)  
+  → Steminc: https://www.steminc.com/PZT/en/piezo-disc-100mm-2.5mm-smd40t100f1000  
+  → AliExpress cheaper alternative: search “100mm PZT-5H disk” (\~$12 each)
+- Conductive epoxy (MG Chemicals 8331) or thin wire for center via – $5
+- PLA filament for jig (if you have a 3D printer) – free
+- Function generator + 10–100 V piezo driver (or cheap $15 Amazon module)
+
+## High-Q Upgrade (\~$180)
+- 2 × AT-cut quartz 100 mm blanks (custom order from https://www.foxelectronics.com or local crystal house) \~$60 each
+- Small vacuum chamber parts (optional) – $30
+
+## Tools (you probably already have)
+- Laser cutter / screen-print kit OR vinyl cutter for electrodes
+- Rotary table or printed jig for 54.74° alignment
+- Multimeter + oscilloscope or cheap USB VNA (\~$200 if you want pro data)
