@@ -51,7 +51,7 @@ Golden ratio \(\phi = \frac{1+\sqrt{5}}{2}\), 5-fold symmetry, 5 turns.
 - Improve the jig or scripts  
 - Add translations  
 
-Data goes here: [Google Sheet link — create one when you upload the repo]
+Data goes here: https://docs.google.com/spreadsheets/d/1YOUR_NEW_SHEET_ID/edit?usp=sharing
 
 ## License
 Hardware & docs: CC-BY-SA 4.0  
