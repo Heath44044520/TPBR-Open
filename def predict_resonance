@@ -1,0 +1,12 @@
+import numpy as np
+
+def predict_resonance(diameter_mm=100, thickness_mm=2.5, material='PZT-5H'):
+    if material == 'PZT-5H':
+        # Approximate radial mode formula
+        fr = 2.05 / (diameter_mm / 1000) * np.sqrt((6.5e10 * (1 - 0.34**2)) / 7500)
+    else:  # quartz
+        fr = 2.05 / (diameter_mm / 1000) * np.sqrt((8.7e10 * (1 - 0.08**2)) / 2650)
+    return fr / 1000  # kHz
+
+print(f"Predicted fundamental radial resonance: {predict_resonance():.1f} kHz")
+print("Run this after you build to compare with your measurements!")
