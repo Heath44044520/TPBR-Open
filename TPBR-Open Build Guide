@@ -1,0 +1,12 @@
+# TPBR-Open Build Guide (20–30 min active time)
+
+1. Print or laser-cut the alignment jig (see /jig folder).
+2. Etch/print the exact bifilar spiral on both disks using hardware/winding_coordinates.csv.
+3. Place bottom disk in jig.
+4. Rotate top disk exactly 54.74° using the jig index marks.
+5. Bond with ultra-thin epoxy (<10 μm) or use removable clamp for testing.
+6. Connect inner electrodes with conductive epoxy or wire (series).
+7. Drive outer electrodes with 10–100 V square wave \~24 kHz.
+8. Measure impedance, phase lock, and E∥/E⊥.
+
+First-build checklist and photo template in the Google Sheet.
