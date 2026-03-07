@@ -1,0 +1,5 @@
+# Simple script to analyze ring-down or VNA data (expand as needed)
+import numpy as np
+# Example placeholder - replace with your actual CSV import
+freq = np.array([24.1, 39.0, 63.1])  # kHz example
+print("φ-scaled harmonics detected:", freq)
