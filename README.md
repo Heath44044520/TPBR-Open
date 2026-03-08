@@ -51,7 +51,13 @@ Golden ratio \(\phi = \frac{1+\sqrt{5}}{2}\), 5-fold symmetry, 5 turns.
 - Improve the jig or scripts  
 - Add translations  
 
-Data goes here: https://docs.google.com/spreadsheets/d/1YOUR_NEW_SHEET_ID/edit?usp=sharing
+## Community Data (100% GitHub-native — no Google, no subscriptions)
+
+All measurements live in **[DATA.md](DATA.md)** — just add your row and commit!
+
+We track: Q-factor, measured E∥/E⊥ (\~1.932 target), resonance & harmonics, photos/plots.
+
+First 10 builders get eternal glory in the table. Zero login walls, zero tracking.
 
 ## License
 Hardware & docs: CC-BY-SA 4.0  
