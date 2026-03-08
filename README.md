@@ -46,6 +46,17 @@ Golden ratio \(\phi = \frac{1+\sqrt{5}}{2}\), 5-fold symmetry, 5 turns.
 **We do NOT claim** 20× asymmetry, world-record Q, or new physics. Just good data.
 
 ## How to Contribute
+## Community Data (100% GitHub-native — no Google, no subscriptions, no tracking)
+
+All measurements live in **[DATA.md](DATA.md)** — just add your row and commit or open a PR!
+
+We track:
+- Q-factor
+- Measured E∥/E⊥ (target \~1.932)
+- Resonance & harmonic ladder
+- Photos/plots
+
+First 10 builders get eternal glory in the table. Zero login walls. Everything stays in the repo forever.
 - Build it  
 - Upload impedance plots / vibrometer traces / Q numbers  
 - Improve the jig or scripts  
